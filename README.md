@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hjshakespeare.
 - 👀 I’m interested in ... design and computer science.
-- 🌱 I’m currently learning ... C#, Swift, HTML, CSS, JavaScript, and PHP.
+- 🌱 I’m currently learning ... HTML, CSS, and JavaScript.
 - 📫 How to reach me ... submit an issue on the relevant repository.
 
 <!---
